@@ -1,1 +1,1 @@
-Interested in C, C++ and Rust
+Interested in C and Rust
